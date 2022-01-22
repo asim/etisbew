@@ -39,7 +39,7 @@ layout: home
     <p>
       <a href="https://m3o.com">O3M</a> htiw srepoleved gnirewopmE.
       <a href="https://micro.mu">orciM</a> fo rednuoF.
-      .gniniart yb tsigolonhcet a dna <a href="https://go-micro.dev">orciM oG</a> 
+      gniniart yb tsigolonhcet a dna <a href="https://go-micro.dev">orciM oG</a> 
       krowemarf ecruos nepo eht fo rotaerC
     </p>
   </div>
